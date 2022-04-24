@@ -1,11 +1,3 @@
-repo created 
+Mid term
 
-code and report part are created
-
-report
-
-​	proposal
-
-​	midterm report
-
-​	final report
+The code is stored as ipynb file in code section. You may use colab to re-execute it. 
